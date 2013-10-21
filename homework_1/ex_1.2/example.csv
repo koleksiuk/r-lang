@@ -1,0 +1,8 @@
+# This is a comment
+# An exemplary CSV file
+Name;Sex;BirthDate;Height
+"Mary";F;"1987-05-09";172,3
+"Kate";F;"1987-12-31";159,2
+"John";M;"1988-04-01";181,9
+"Bill";M;"1987-11-12";175,3
+"Mike";M;"1986-01-26";192,2
