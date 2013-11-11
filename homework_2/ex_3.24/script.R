@@ -14,7 +14,7 @@ print("Built in integral")
 print(Res)
 
 
-n <- 1000000
+n <- 100000
 r <- 0.75^(1/3)
 x <- runif(n, -r, r)
 y <- runif(n, -r, r)
